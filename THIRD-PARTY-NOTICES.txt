@@ -1,0 +1,4 @@
+QRCode for JavaScript
+Copyright (c) 2009 Kazuhiko Arase
+MIT License
+Source is bundled via qrcode-terminal's vendored QRCode implementation.

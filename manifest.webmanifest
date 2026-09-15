@@ -1,0 +1,35 @@
+{
+  "name": "Aweta Video Catalog",
+  "short_name": "Aweta Videos",
+  "description": "Network-enabled, Iron Man-inspired mobile video catalog for Aweta YouTube videos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080B10",
+  "theme_color": "#9D0B16",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
