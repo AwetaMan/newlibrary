@@ -5,12 +5,10 @@
     "category": "Customer Testimonial",
     "commodity": "Apples",
     "equipment": [
-      "Grader",
-      "Palletizing"
+      "Complete Packing Line"
     ],
     "technology": [
-      "Optical Sorting",
-      "Accuveyor"
+      "Packing Line Automation"
     ],
     "equipmentTechnology": "",
     "duration": "",
@@ -187,13 +185,12 @@
     "category": "Customer Testimonial",
     "commodity": "Apples",
     "equipment": [
-      "Complete Line"
+      "Complete Packing Line"
     ],
     "technology": [
-      "Accuveyor",
-      "Optical Grading"
+      "Automation"
     ],
-    "equipmentTechnology": "Packing Center automation",
+    "equipmentTechnology": "Packing Line Automation",
     "duration": "",
     "url": "https://www.youtube.com/watch?v=lT4c8n2dGSc",
     "thumbnail": "https://i.ytimg.com/vi/lT4c8n2dGSc/hqdefault.jpg"
