@@ -1,5 +1,23 @@
 [
   {
+    "id": "Z9HZsm3mQCE",
+    "title": "VandeWalle Testimonial - New York",
+    "category": "Customer Testimonial",
+    "commodity": "Apples",
+    "equipment": [
+      "Grader",
+      "Palletizing"
+    ],
+    "technology": [
+      "Optical Sorting",
+      "Accuveyor"
+    ],
+    "equipmentTechnology": "",
+    "duration": "",
+    "url": "https://youtu.be/Z9HZsm3mQCE",
+    "thumbnail": "https://i.ytimg.com/vi/Z9HZsm3mQCE/hqdefault.jpg"
+  },
+  {
     "id": "uOG1zRLvPXQ",
     "title": "Chula Brand Accuveyor and Palletizer",
     "category": "Automation",
@@ -169,10 +187,11 @@
     "category": "Customer Testimonial",
     "commodity": "Apples",
     "equipment": [
-      "Packing Center"
+      "Complete Line"
     ],
     "technology": [
-      "Automation"
+      "Accuveyor",
+      "Optical Grading"
     ],
     "equipmentTechnology": "Packing Center automation",
     "duration": "",
