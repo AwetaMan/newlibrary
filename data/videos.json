@@ -1,5 +1,21 @@
 [
   {
+    "id": "Z9HZsm3mQCE",
+    "title": "VandeWalle Testimonial - New York",
+    "category": "Customer Testimonial",
+    "commodity": "Apples",
+    "equipment": [
+      "Complete Packing Line"
+    ],
+    "technology": [
+      "Packing Line Automation"
+    ],
+    "equipmentTechnology": "",
+    "duration": "",
+    "url": "https://youtu.be/Z9HZsm3mQCE",
+    "thumbnail": "https://i.ytimg.com/vi/Z9HZsm3mQCE/hqdefault.jpg"
+  },
+  {
     "id": "uOG1zRLvPXQ",
     "title": "Chula Brand Accuveyor and Palletizer",
     "category": "Automation",
@@ -165,16 +181,16 @@
   },
   {
     "id": "lT4c8n2dGSc",
-    "title": "Borton Fruit Packing Center",
+    "title": "Borton Fruit Complete Packing Line - Washington",
     "category": "Customer Testimonial",
     "commodity": "Apples",
     "equipment": [
-      "Packing Center"
+      "Complete Packing Line"
     ],
     "technology": [
       "Automation"
     ],
-    "equipmentTechnology": "Packing Center automation",
+    "equipmentTechnology": "Packing Line Automation",
     "duration": "",
     "url": "https://www.youtube.com/watch?v=lT4c8n2dGSc",
     "thumbnail": "https://i.ytimg.com/vi/lT4c8n2dGSc/hqdefault.jpg"
